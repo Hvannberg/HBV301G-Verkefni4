@@ -1,17 +1,17 @@
 # Verkefni 4 – Söfnun krafna
 
-Þetta repo inniheldur GitHub issue sniðmát til að styðja við verkefni 4 í HBV301G.
+Í þessu repo eru þrjár aðalskrár sem þið fyllið út:
 
-## Sniðmát í `.github/ISSUE_TEMPLATE/`
+- `elicitation-plan.md` – áætlun fyrir kröfugreiningarfund (um ½ bls).
+- `requirements.md` – flokkuð samantekt á kröfum (um 1 bls).
+- `use-case.md` – ítarlegur fully dressed use case (um 1 bls).
 
-- `use_case.md` – fully dressed use case
-- `requirement.md` – einstök krafa (FR, UR, QR, BR)
-- `elicitation_plan.md` – áætlun fyrir kröfugreiningarfund
-- `config.yml` – stillir valmyndina og slökkvir á blank issues
+---
 
-## Notkun
-1. Búið til nýtt issue í repo.  
-2. Veljið viðeigandi sniðmát.  
-3. Fyllið út reitina.  
+## Hópur
+- Nöfn hópmeðlima
+- GitHub slóð
+- Verkaskipting
 
-Þannig haldið þið utan um kröfur og notkunartilvik á skipulegan hátt í GitHub.
+## Ígrundun
+Lýsið stuttlega hvernig kröfugreiningin gekk, hvað lærðist og hvað mætti bæta næst.
