@@ -9,6 +9,8 @@
 - Viðskiptavinir/hagsmunaaðilar: …
 
 ## Dagskrá/Tímalína
+- Drög að dagskrá, aðlagið að ykkar þörfum 
+
 - 00:00–00:05 Kynning
 - 00:05–00:20 Viðskiptamarkmið
 - 00:20–00:40 Notendur og notkunartilvik
