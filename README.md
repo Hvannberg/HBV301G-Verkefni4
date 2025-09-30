@@ -14,4 +14,4 @@
 - Verkaskipting
 
 ## Ígrundun
-Lýsið stuttlega hvernig kröfugreiningin gekk, hvað lærðist og hvað mætti bæta næst.
+Lýsið stuttlega hvernig kröfugreiningin gekk, hvað þið lærðuð og hvað mætti bæta næst.
